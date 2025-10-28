@@ -102,11 +102,11 @@ int main()
     // }
 
     // bai 4
-    // double a, b, c;
-    // bool ss;
-    // ss = a == b;
-    // cin >> a >> b >> c;
-    // cout << ss;
+    double a, b, c;
+    bool ss;
+    ss = a == b;
+    cin >> a >> b >> c;
+    cout << ss;
 
     // bai 9
 
